@@ -1,4 +1,4 @@
-# Copy and Paste the following script into ther terminal
+# Copy and Paste the following script into the terminal
 chmod +x ~/RPi4_OS11_Initialize/install.sh
 
 ~/RPi4_OS11_Initialize/install.sh
