@@ -10,9 +10,9 @@ sudo ln -s /usr/lib/arm-linux-gnueabihf/libGLESv2.so /usr/lib/libbrcmGLESv2.so
 sudo ln -s /usr/lib/arm-linux-gnueabihf/libEGL.so /usr/lib/libbrcmEGL.so
 
 # INSTALL VS CODE
-# sudo apt install code
+sudo apt install code
 
 # INSTALL MCC DAQHAT LIBRARY
-#git clone https://github.com/mccdaq/daqhats.git ~/daqhats
-#cd ~/daqhats
-#sudo ./install.sh
+git clone https://github.com/mccdaq/daqhats.git ~/daqhats
+cd ~/daqhats
+sudo ./install.sh
